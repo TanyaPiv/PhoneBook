@@ -1,0 +1,38 @@
+.wrap {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    background-color: #bc79ff;
+    border-radius: 8px;
+    cursor: pointer;
+
+    .name {
+        border-radius: 10px;
+        padding: 8px 12px;
+        cursor: pointer;
+        margin-right: 8px;
+    }
+    
+    .phone {
+        border-radius: 10px;
+        padding: 8px 12px;
+        cursor: pointer;
+    }
+
+    .butlike {
+        background-color: plum;
+        border: none;
+        cursor: pointer;
+        border-radius: 10px;
+        margin-right: auto;
+    }
+
+    .like {
+        cursor: pointer;
+    }
+
+    .trush {
+        cursor: pointer;
+        margin-right: 10px;
+    }
+}

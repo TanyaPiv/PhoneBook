@@ -1,0 +1,21 @@
+.wrap {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+    input {
+        max-width: 500px;
+        width: 100%;
+        padding: 8px 12px;
+    }
+}
+
+.add {
+    margin-left: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: plum;
+    cursor: pointer;
+    padding: 10px;
+}
